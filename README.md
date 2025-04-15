@@ -1,6 +1,6 @@
 <div align="center">
-    <a href="https://erpnext.com">
-        <img src="/Users/eunice/frappe/sb-erp/erpnext/public/images/erpnext-logo-blue.png" height="128">
+    <a>
+        <img src="/frappe/sb-erp/erpnext/public/images/erpnext-logo-blue.png" height="128">
     </a>
     <h2>ERPNext</h2>
     <p align="center">
@@ -17,24 +17,6 @@
 
 </div>
 
-ERPNext as a monolith includes the following areas for managing businesses:
-
-1. [Accounting](https://erpnext.com/open-source-accounting)
-1. [Warehouse Management](https://erpnext.com/distribution/warehouse-management-system)
-1. [CRM](https://erpnext.com/open-source-crm)
-1. [Sales](https://erpnext.com/open-source-sales-purchase)
-1. [Purchase](https://erpnext.com/open-source-sales-purchase)
-1. [HRMS](https://erpnext.com/open-source-hrms)
-1. [Project Management](https://erpnext.com/open-source-projects)
-1. [Support](https://erpnext.com/open-source-help-desk-software)
-1. [Asset Management](https://erpnext.com/open-source-asset-management-software)
-1. [Quality Management](https://erpnext.com/docs/user/manual/en/quality-management)
-1. [Manufacturing](https://erpnext.com/open-source-manufacturing-erp-software)
-1. [Website Management](https://erpnext.com/open-source-website-builder-software)
-1. [Customize ERPNext](https://erpnext.com/docs/user/manual/en/customize-erpnext)
-1. [And More](https://erpnext.com/docs/user/manual/en/)
-
-ERPNext is built on the [Frappe Framework](https://github.com/frappe/frappe), a full-stack web app framework built with Python & JavaScript.
 
 ## Installation
 
@@ -59,23 +41,6 @@ The Easy Way: our install script for bench will install all dependencies (e.g. M
 
 New passwords will be created for the ERPNext "Administrator" user, the MariaDB root user, and the frappe user (the script displays the passwords and saves them to ~/frappe_passwords.txt).
 
-
-## Learning and community
-
-1. [Frappe School](https://frappe.school) - Learn Frappe Framework and ERPNext from the various courses by the maintainers or from the community.
-2. [Official documentation](https://docs.erpnext.com/) - Extensive documentation for ERPNext.
-3. [Discussion Forum](https://discuss.erpnext.com/) - Engage with community of ERPNext users and service providers.
-4. [Telegram Group](https://erpnext_public.t.me) - Get instant help from huge community of users.
-
-
-## Contributing
-
-1. [Issue Guidelines](https://github.com/frappe/erpnext/wiki/Issue-Guidelines)
-1. [Report Security Vulnerabilities](https://erpnext.com/security)
-1. [Pull Request Requirements](https://github.com/frappe/erpnext/wiki/Contribution-Guidelines)
-1. [Translations](https://translate.erpnext.com)
-
-
 ## License
 
 GNU/General Public License (see [license.txt](license.txt))
@@ -84,6 +49,3 @@ The ERPNext code is licensed as GNU General Public License (v3) and the Document
 
 By contributing to ERPNext, you agree that your contributions will be licensed under its GNU General Public License (v3).
 
-## Logo and Trademark Policy
-
-Please read our [Logo and Trademark Policy](TRADEMARK_POLICY.md).
